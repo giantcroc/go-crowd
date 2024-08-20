@@ -1,4 +1,4 @@
-module github.com/giantcroc/go-crowd/v3
+module github.com/giantcroc/go-crowd
 
 go 1.22.3
 
