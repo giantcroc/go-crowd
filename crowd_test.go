@@ -10,7 +10,7 @@ package crowd
 import (
 	"testing"
 
-	. "github.com/giantcroc/check"
+	. "github.com/essentialkaos/check"
 )
 
 // ////////////////////////////////////////////////////////////////////////////////// //
