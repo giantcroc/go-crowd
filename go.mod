@@ -1,9 +1,9 @@
-module github.com/essentialkaos/go-crowd/v3
+module github.com/giantcroc/go-crowd/v3
 
-go 1.18
+go 1.22.3
 
 require (
-	github.com/essentialkaos/check v1.4.0
+	github.com/giantcroc/check v1.4.0
 	github.com/valyala/fasthttp v1.55.0
 )
 
